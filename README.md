@@ -7,7 +7,7 @@
 ~~my text~~
 
 ---
-[OTHER.md]()
+[OTHER.md](https://github.com/Yuhh56/My-Assignments-for-Computer-English/blob/main/OTHER.md)
 
 ---
 [Brief Introduction for Python](https://baike.baidu.com/item/Python/407313?fr=aladdin)
